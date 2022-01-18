@@ -26,14 +26,7 @@ dataSet[dataSetVersion].characterData = [
       nameless: true
     }
   },
-  {
-    name: "정시우 JUNG SIWOO",
-    img: "RO8lgjV.jpg",
-    opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st4", "ex"]
-    }
-  },
+ 
   {
     name: "보미세라 BOHME SARA",
     img: "Ur2Y2xy.jpg",
@@ -42,14 +35,7 @@ dataSet[dataSetVersion].characterData = [
       stage: ["st5", "st6"]
     }
   },
-  {
-    name: "정유주 JUNG YUJU",
-    img: "D1BnUrX.jpg",
-    opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "VD"],
-      stage: ["st6"]
-    }
-  },
+ 
   {
     name: "김수빈 KIM SUBEEN",
     img: "Ls8ZyfF.jpg",
@@ -146,14 +132,7 @@ dataSet[dataSetVersion].characterData = [
       stage: ["ex"]
     }
   },
-  {
-    name: "박효원 PARK HYOWON",
-    img: "nJDa2jS.jpg",
-    opts: {
-      series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6"]
-    }
-  },
+ 
   {
     name: "타케이 카리나 TAKEI KARINA",
     img: "tMQDJV6.jpg",
@@ -194,14 +173,7 @@ dataSet[dataSetVersion].characterData = [
       stage: ["st5"]
     }
   },
-  {
-    name: "유재현 RYOU JAYHYUN",
-    img: "XfK1lhn.jpg",
-    opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
-    }
-  },
+ 
   {
     name: "이태림 LEE TAERIM",
     img: "qS0UzzE.jpg",
@@ -210,14 +182,7 @@ dataSet[dataSetVersion].characterData = [
       stage: ["st6"]
     }
   },
-  {
-    name: "김수혜 KIM SUHYE",
-    img: "nlkSIF7.jpg",
-    opts: {
-      series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
-    }
-  },
+  
   {
     name: "이지우 LEE JIWOO",
     img: "xNlMLZh.jpg",
@@ -282,14 +247,7 @@ dataSet[dataSetVersion].characterData = [
       stage: ["st2"]
     }
   },
-  {
-    name: "이유민 LEE YUMIN",
-    img: "539SaxC.jpg",
-    opts: {
-      series: ["MoF", "DS", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st3"]
-    }
-  },
+  
   {
     name: "송예림 SONG YERIM",
     img: "68f1jyn.jpg",
